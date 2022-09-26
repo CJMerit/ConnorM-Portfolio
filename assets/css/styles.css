@@ -90,6 +90,36 @@ section {
     line-height: 40px;
 }
 
+.Work-Images {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 60%;
+}
+
+.Container {
+    position: relative;
+    width: 40%;
+    margin: 75px 50px 25px;
+}
+
+.Work-Images img {
+    width: 100%;
+    outline: 5px solid #000000;
+}
+
+.Image-Text {
+    position: absolute;
+    font-size: 25px;
+    height: 40px;
+    width: fit-content;
+    left: 0;
+    bottom: 25px;
+    background-color: #000000;
+    outline: 5px solid #000000;
+    color: #ffffff;
+}
+
 #Contact-Info {
     border-bottom: 0;
 }
