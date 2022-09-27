@@ -5,7 +5,7 @@
 This is a portfolio describing myself and some web development projects that I have completed.
 At the bottom are my phone and email to contact me, along with my GitHub page.
 
-![alt text](assets\images\Webpage Screenshot.png)
+![Webpage snippet](./assets/images/Webpage-Screenshot.png)
 
 ## Installation
 

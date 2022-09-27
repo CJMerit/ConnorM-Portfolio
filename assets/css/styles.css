@@ -138,6 +138,7 @@ section {
     text-decoration: none;
 }
 
+/* Responsive layouts */
 @media screen and (max-width: 1480px) {
     h1 {
         font-size: 60px;
