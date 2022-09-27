@@ -5,7 +5,7 @@
 This is a portfolio describing myself and some web development projects that I have completed.
 At the bottom are my phone and email to contact me, along with my GitHub page.
 
-![Webpage snippet](assets\images\Webpage-Screenshot.png)
+![Webpage snippet](C:\Users\cmpsy\bootcamp\CJM-Portfolio\assets\images\Webpage-Screenshot.png)
 
 ## Installation
 
